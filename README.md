@@ -1,0 +1,2 @@
+# GetAllTablesRowCount
+ユーザコードで定義したクラスクエリを使用して、全てのテーブルのRowCountを取得する
